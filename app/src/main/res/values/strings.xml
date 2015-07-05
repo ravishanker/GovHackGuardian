@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GovHack Guardian</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="alcohol.consumption.chart.title">Alcohol Consumption Levels Risk</string>
+    <string name="domestic.violence.chart.title">Domestic Assaults in Sydney</string>
+
+</resources>
